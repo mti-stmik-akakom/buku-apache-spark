@@ -4,6 +4,12 @@
 
 1.  Dr. Bambang Purnomosidi D. P.
 
+Gunakan perintah Git berikut untuk mengetahui kontribusi setiap penulis:
+
+```bash
+$ git shortlog -sn --all
+```
+
 ## Lisensi
 
 ![Creative Commons License](img/cc-by-sa.png)
