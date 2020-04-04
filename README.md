@@ -31,7 +31,7 @@ info.mti@akakom.ac.id
 
 ## Versi PDF
 
-Versi PDF dari buku ini bisa diambil di [direktori  asil](hasil/buku-apache-spark--mti-stmik-akakom.pdf)
+Versi PDF dari buku ini bisa diambil di [direktori hasil](hasil/buku-apache-spark--mti-stmik-akakom.pdf)
 
 ## Kompilasi ke format PDF
 
